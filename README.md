@@ -1,6 +1,6 @@
-# 📊 Power BI Sales Dashboard
+#  Power BI Sales Dashboard
 
-## 📌 Project Description
+##  Project Description
 
 This repository showcases an **interactive Power BI Sales Dashboard** developed to analyze restaurant sales data across **multiple restaurant brands, cities, and months**. The dashboard provides actionable insights into revenue performance, customer behavior, and operational metrics, enabling stakeholders to make **data-driven business decisions**.
 
@@ -8,7 +8,7 @@ This project is designed as a **portfolio-quality analytics solution**, demonstr
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 * Track overall **sales performance** using KPIs
 * Compare performance across **restaurant brands**
@@ -18,7 +18,7 @@ This project is designed as a **portfolio-quality analytics solution**, demonstr
 
 ---
 
-## 📈 Key KPIs
+##  Key KPIs
 
 * **Net Revenue:** 40.52M
 * **Total Orders:** 86,894
@@ -28,7 +28,7 @@ All KPIs update dynamically based on applied filters.
 
 ---
 
-## 🧭 Dashboard Navigation & Filters
+##  Dashboard Navigation & Filters
 
 * **Month Slicer** – Analyze trends over time
 * **City Slicer** – City-level performance comparison
@@ -36,32 +36,32 @@ All KPIs update dynamically based on applied filters.
 
 ---
 
-## 📊 Visualizations Included
+##  Visualizations Included
 
-### 1️⃣ Orders & Revenue Analysis
+### 1️ Orders & Revenue Analysis
 
 * Combined **bar and line charts**
 * Comparison of **Total Orders vs Net Revenue**
 * Available by Restaurant, City, and Month
 
-### 2️⃣ City-wise Revenue Map
+### 2️ City-wise Revenue Map
 
 * Geographic revenue distribution using **Azure Maps**
 * Bubble size indicates revenue contribution
 
-### 3️⃣ Restaurant Performance Analysis
+### 3️ Restaurant Performance Analysis
 
 * **Average Rating by Restaurant**
 * **Average Discount by Restaurant**
 * Identifies high- and low-performing brands
 
-### 4️⃣ City-level Operational Insights
+### 4️ City-level Operational Insights
 
 * **Average Delivery Time by City**
 * **Customer Count by City**
 * Helps evaluate operational efficiency
 
-### 5️⃣ Monthly Trend Analysis
+### 5️ Monthly Trend Analysis
 
 * **Net Revenue by Month**
 * **Customer Count by Month**
@@ -69,7 +69,7 @@ All KPIs update dynamically based on applied filters.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **Power BI Desktop** – Data modeling & visualization
 * **Power Query** – Data cleaning and transformation
@@ -78,7 +78,7 @@ All KPIs update dynamically based on applied filters.
 
 ---
 
-## 🔄 Data Preparation & Modeling
+##  Data Preparation & Modeling
 
 * Cleaned and transformed raw data using **Power Query**
 * Built a structured data model with relationships
@@ -94,7 +94,7 @@ All KPIs update dynamically based on applied filters.
 
 ---
 
-## 💡 Business Insights Enabled
+##  Business Insights Enabled
 
 * Identification of **top-performing restaurants and cities**
 * Monitoring of **sales growth and order trends**
@@ -104,7 +104,7 @@ All KPIs update dynamically based on applied filters.
 
 ---
 
-## 🖼 Dashboard Screenshots
+##  Dashboard Screenshots
 
 Screenshots included in this repository demonstrate:
 
@@ -123,7 +123,7 @@ Screenshots included in this repository demonstrate:
 
 ---
 
-## 📂 Use Cases
+##  Use Cases
 
 * Restaurant chains & QSR analytics
 * Food delivery platforms
@@ -132,7 +132,7 @@ Screenshots included in this repository demonstrate:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Sonu Kumar**
 Aspiring Data Analyst | Power BI | SQL | Python
